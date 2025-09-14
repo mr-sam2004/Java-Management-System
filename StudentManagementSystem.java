@@ -9,7 +9,7 @@ public class StudentManagementSystem {
     // Add Student
     public void addStudent(Student s) {
         students.add(s);
-        System.out.println(" Student added!");
+        System.out.println(" Student added! :)");
     }
 
     // View All Students
